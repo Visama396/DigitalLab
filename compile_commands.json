@@ -1,0 +1,70 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Iinclude",
+      "src/main.c",
+      "-o",
+      "digitallab"
+    ],
+    "directory": "/home/victor/projects/DigitalLab",
+    "output": "digitallab"
+  },
+  {
+    "file": "src/core/result.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Iinclude",
+      "src/core/result.c",
+      "-o",
+      "digitallab"
+    ],
+    "directory": "/home/victor/projects/DigitalLab",
+    "output": "digitallab"
+  },
+  {
+    "file": "src/core/conversion.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Iinclude",
+      "src/core/conversion.c",
+      "-o",
+      "digitallab"
+    ],
+    "directory": "/home/victor/projects/DigitalLab",
+    "output": "digitallab"
+  },
+  {
+    "file": "src/cli/menu.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Iinclude",
+      "src/cli/menu.c",
+      "-o",
+      "digitallab"
+    ],
+    "directory": "/home/victor/projects/DigitalLab",
+    "output": "digitallab"
+  }
+]
